@@ -1,1 +1,15 @@
+appldnld.apple.com
+gg.apple.com
+gs.apple.com
+ig.apple.com
+skl.apple.com
+swcdn.apple.com
+swdist.apple.com
+swdownload.apple.com
+swscan.apple.com
+updates-http.cdn-apple.com
 updates.apple-cdn.com
+updates.cdn-apple.com
+*.itunes.apple.com
+*.apps.apple.com
+*.mzstatic.com
